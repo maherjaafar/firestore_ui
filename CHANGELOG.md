@@ -6,7 +6,6 @@
 * Updated `cloud_firestore` to 2.5.3
 * Updated `cloud_firestore_platform_interface` to 5.4.1
 * Updated `flutter_staggered_grid_view` to 0.4.1
-* Updated `collection` to 1.15.0
 
 ## [1.20.0] - 2021-04-26
 
